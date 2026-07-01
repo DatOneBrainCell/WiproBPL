@@ -12,3 +12,8 @@ runnerUp = GetRunnerUpScore(li)
 
 print("Sample Input: ", li)
 print("Sample Output: ", runnerUp)
+
+'''O/P:
+Sample Input:  [2, 3, 6, 6, 5]
+Sample Output:  5
+'''
