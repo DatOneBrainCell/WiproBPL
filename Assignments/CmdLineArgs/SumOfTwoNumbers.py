@@ -7,6 +7,6 @@ total = num1 + num2
 print(total)
 
 '''O/P:
-$ python assignment1.py 10 25
+$ python SumOfTwoNumbers.py 10 25
 35.0
 '''
